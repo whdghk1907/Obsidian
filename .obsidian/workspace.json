@@ -11,15 +11,24 @@
             "id": "3ac4646dfaa1de89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "path": "Spaces/Home"
+              }
+            }
+          },
+          {
+            "id": "81f0ca38c9221b93",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Math"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fad93ced28503188",
@@ -95,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,10 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ac4646dfaa1de89",
+  "active": "af245d44c28c4414",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Spaces/Math/Untitled.md",
+    "Spaces/Math/Math.md",
+    "Spaces/Math",
     "Spaces/Untitled.md",
+    "Spaces/Git",
+    "README.md",
+    "Untitled.canvas",
     "Spaces/Home",
     "Spaces"
   ]

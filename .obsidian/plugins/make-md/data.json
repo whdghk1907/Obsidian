@@ -36,7 +36,11 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Spaces/Spaces/Home"
+    "//Spaces/Spaces/Home",
+    "//Spaces/Spaces/Home",
+    "//Spaces/Spaces/Home",
+    "//Spaces",
+    "//Spaces/Spaces/Math"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -61,7 +65,9 @@
     "/",
     "spaces://$tags"
   ],
-  "rootSpaces": [],
+  "rootSpaces": [
+    "Spaces/Math"
+  ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
   "fmKeyBanner": "banner",
