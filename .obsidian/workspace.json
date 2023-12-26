@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a265019822fbfb22",
+        "id": "0589a5ccff23d968",
         "type": "tabs",
         "children": [
           {
-            "id": "3ac4646dfaa1de89",
+            "id": "8a2df165237912dc",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home"
-              }
-            }
-          },
-          {
-            "id": "81f0ca38c9221b93",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Math/trigonometry"
+                "file": "Spaces/Math/trigonometry/변의 표현.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Math/trigonometry/변의 표현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Math/trigonometry/변의 표현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Math/trigonometry/변의 표현.md"
+              }
             }
           }
         ]
@@ -159,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81f0ca38c9221b93",
+  "active": "8a2df165237912dc",
   "lastOpenFiles": [
+    "Paste.md",
+    "Spaces/Math/trigonometry/변의 표현.md",
     "Spaces/Math/trigonometry/trigonometry.md",
     "Spaces/Math/trigonometry",
     "Spaces/Math/Untitled.md",
