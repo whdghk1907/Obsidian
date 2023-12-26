@@ -23,7 +23,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Spaces/Math"
+                "path": "Spaces/Math/trigonometry"
               }
             }
           }
@@ -159,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af245d44c28c4414",
+  "active": "81f0ca38c9221b93",
   "lastOpenFiles": [
+    "Spaces/Math/trigonometry/trigonometry.md",
+    "Spaces/Math/trigonometry",
     "Spaces/Math/Untitled.md",
     "Spaces/Math/Math.md",
     "Spaces/Math",
