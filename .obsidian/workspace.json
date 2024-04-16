@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "ae43e99793a6a6ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5655b1cf78b5a8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d13090f58da6684",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b306d03e9b768e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3014226f43b86c2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fddd07eaa4fa52ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d38a50d166bd549c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39b697a7024fe92a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a95ece3abdb55c1f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5
+  },
+  "right": {
+    "id": "24b254527f7b3c84",
+    "type": "split",
+    "children": [
+      {
+        "id": "194e2eed655fcb76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f65209d099a2c574",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spaces/Home/KhanAcademy/삼각법/삼각비.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "466e9fae54075dd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spaces/Home/KhanAcademy/삼각법/삼각비.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "503bd0ceaff2e3d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f164a7bd49bdf194",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spaces/Home/KhanAcademy/삼각법/삼각비.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4d13090f58da6684",
+  "lastOpenFiles": [
+    "Spaces/Home/KhanAcademy/삼각법/직각삼각형과 삼각법.md",
+    "Spaces/Home/KhanAcademy/삼각법/삼각비.md",
+    "Spaces/Home/KhanAcademy/Overview.md",
+    "Spaces/Home/KhanAcademy/삼각법/삼각법.md",
+    "Spaces/Home/KhanAcademy/삼각법",
+    "Spaces/Home/KhanAcademy/Untitled.md",
+    "Spaces/Home/KhanAcademy/.md",
+    "Spaces/Home/Untitled.md",
+    "Spaces/Home/KhanAcademy/KhanAcademy.md",
+    "Spaces/Home/KhanAcademy",
+    "README.md",
+    "Spaces/Home",
+    "Spaces"
+  ]
+}
