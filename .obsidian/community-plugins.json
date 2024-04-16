@@ -1,4 +1,9 @@
 [
   "obsidian-git",
+<<<<<<< HEAD
   "make-md"
+=======
+  "make-md",
+  "editing-toolbar"
+>>>>>>> 2cfab022ab23e5b29eda8548dc8a2a37b7631a43
 ]

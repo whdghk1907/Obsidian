@@ -16,8 +16,21 @@
                 "currentVersion": "1.5.12"
               }
             }
+          },
+          {
+            "id": "b6da713d19438f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/KhanAcademy/삼각법/삼각비.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/KhanAcademy/삼각법/삼각비.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/KhanAcademy/삼각법/삼각비.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -153,8 +166,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d13090f58da6684",
+  "active": "b6da713d19438f69",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Spaces/Math/trigonometry/trigonometry.md",
+    "Spaces/Math/trigonometry/변의 표현.md",
+    "Spaces/Math/trigonometry",
+    "Spaces/Math/Math.md",
+    "Spaces/Math",
     "Spaces/Home/KhanAcademy/삼각법/직각삼각형과 삼각법.md",
     "Spaces/Home/KhanAcademy/삼각법/삼각비.md",
     "Spaces/Home/KhanAcademy/Overview.md",
